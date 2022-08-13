@@ -31,6 +31,6 @@
   },
   "devDependencies": {},
   "peerDependencies": {
-    "verdaccio": "^4.8.0"
+    "verdaccio": "^5.1.0"
   }
 }
